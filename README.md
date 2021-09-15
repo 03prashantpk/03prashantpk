@@ -1,6 +1,5 @@
 
 ### Hi ,I Am Prashant Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br>
-<img src="https://avatars.githubusercontent.com/u/43730425?v=4" width="200px">
 <br>
 
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue)<br>
