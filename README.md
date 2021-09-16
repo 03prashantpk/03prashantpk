@@ -37,11 +37,11 @@
 <img align="left" alt="PHP" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" />
 <img align="left" alt="Mysql" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 
-<br>
+<br><br>
 
 ### Tools
 
-<br/>
+<hr/>
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub Desktop" width="30px" src="https://static.techspot.com/images2/downloads/topdownload/2021/04/2021-04-07-ts3_thumbs-8ba.png" />
