@@ -66,6 +66,6 @@
 <br>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=03prashantpk)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=03prashantpk&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
 
 
