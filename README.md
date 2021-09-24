@@ -73,6 +73,6 @@
 ![](https://activity-graph.herokuapp.com/graph?username=03prashantpk&theme=github)
 
 <p align="center">
-<img  src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/download.gif" width="250px">
+<img  src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/circleprofile.png" width="250px">
 <h4 align="center"> <a href="https://enally.in/cv/index.php" target="_blank"> Download </a></h4>
 </p>
