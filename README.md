@@ -1,6 +1,9 @@
 
-# Hi, I Am Prashant Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+# नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br>
 <br>
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue)<br>
 
@@ -61,9 +64,8 @@
 <a href="https://github.com/03prashantpk">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
-<br><br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantpk&layout=compact&theme=blue-green" />
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantpk&layout=compact&theme=blue-green" />
 </a>
 <br>
 <br>
@@ -71,3 +73,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=03prashantpk&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
 
 
+![](https://activity-graph.herokuapp.com/graph?username=03prashantpk&theme=github)
