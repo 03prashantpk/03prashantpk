@@ -62,15 +62,21 @@
 <hr/>
 <br>
 <a href="https://github.com/03prashantpk">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
 <a href="https://github.com/remcohalman/github-readme-stats">
 <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantpk&layout=compact&theme=blue-green" />
 </a>
 <br>
-<br>
+<br><br>
+
+
+
+<a href="https://github.com/remcohalman/github-readme-stats">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=03prashantpk&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats)
+
+</a>
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=03prashantpk&theme=github)
