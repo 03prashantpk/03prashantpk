@@ -61,7 +61,7 @@
 
 <hr/>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantpk&layout=compact&theme=blue-green" />
 
