@@ -1,7 +1,10 @@
 
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header.png)
 
-# नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br>
+<h1 align="center">
+नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br>
+</h1>
+
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
