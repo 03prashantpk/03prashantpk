@@ -103,6 +103,10 @@
 </p>
 
 <br>
-<p style="color: red;" align="right" >Something Wrong? <a href="https://www.linkedin.com/in/03prashantpk/">Report Here!</a><br> Last Update on: 25 Sept 2021 </p>
+<p style="color: red;" align="right" >Last Update on: 25 Sept 2021 </p>
+
+<a href="https://www.linkedin.com/in/03prashantpk/">
 
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer2.png)
+
+  </a>
