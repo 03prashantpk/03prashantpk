@@ -2,7 +2,7 @@
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header.png)
 
 <h1 align="center">
-नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br>
+नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/h.gif" width="30px"> <br>
 </h1>
 
 <br>
@@ -25,7 +25,7 @@
 <hr/>
 
 
-<img width="26" src="https://i.dlpng.com/static/png/6743211_preview.png">
+<img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
 [![Instagram Badge](https://img.shields.io/badge/-@prashantpkumar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/prashantpkumar) 
 [![Linkedin Badge](https://img.shields.io/badge/-03prashantpk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/03prashantpk/)](https://www.linkedin.com/in/03prashantpk/) 
@@ -110,4 +110,4 @@
 
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer2.png)
 
-  </a>
+</a>
