@@ -24,9 +24,12 @@
 
 <hr/>
 
+<img width="26" src="https://i.dlpng.com/static/png/6743211_preview.png">
+
+[![Instagram Badge](https://img.shields.io/badge/-@prashantpkumar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/prashantpkumar) 
 [![Linkedin Badge](https://img.shields.io/badge/-03prashantpk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/03prashantpk/)](https://www.linkedin.com/in/03prashantpk/) 
 [![Facebook Badge](https://img.shields.io/badge/-Prashant96120Pk-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Prashant96120Pk)](https://www.facebook.com/Prashant96120Pk) 
-[![Instagram Badge](https://img.shields.io/badge/-@prashantpkumar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/prashantpkumar) 
+![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue)
 
 <br>
 
@@ -79,8 +82,10 @@
 
 <hr/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+<img align="right" width="370" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantpk&layout=compact&theme=blue-green" />
 
 
@@ -90,13 +95,14 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=03prashantpk&theme=github)
 
+
+
 <p align="center">
 <img  src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/circleprofile.png" width="250px">
 <h4 align="center"> <a href="https://enally.in/cv/index.php" target="_blank"> Download CV</a></h4>
 </p>
 
 <br>
-
 <p style="color: red;" align="right" >Something Wrong? <a href="https://www.linkedin.com/in/03prashantpk/">Report Here!</a><br> Last Update on: 25 Sept 2021 </p>
 
 ![](https://www.pngkey.com/png/full/762-7625068_footer-abstrak-footer.png)
