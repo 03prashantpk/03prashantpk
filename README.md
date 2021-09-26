@@ -4,15 +4,10 @@
 नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/Hi.gif" width="30px"> <br>
 </h1>
 
-
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
-<<<<<<< HEAD
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Please+Come+In+Visitor)<br>
-=======
-![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Please+Come+In+Visitor ) ![](https://hit.yhype.me/github/profile?user_id=43730425) <br>
->>>>>>> 7f26c3e1134b103ae124a505766e130d21a0c9a7
 
 ### I am a web developer
 
@@ -111,3 +106,4 @@
 </a>
 
 <!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk >
+
