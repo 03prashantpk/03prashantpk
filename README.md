@@ -106,7 +106,6 @@
 </a>
 </p>
 
-<br>
 <p style="color: red;" align="right" >Last Update on: 25 Sept 2021 </p>
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
