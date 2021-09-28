@@ -30,6 +30,12 @@
 [![Facebook Badge](https://img.shields.io/badge/-Prashant96120Pk-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Prashant96120Pk)](https://www.facebook.com/Prashant96120Pk)
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue)
 
+
+
+```
+https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
+```
+
 <br>
 
 ### Languages
@@ -107,7 +113,3 @@
 
 <!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk >
 
-
-```
-https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
-```
