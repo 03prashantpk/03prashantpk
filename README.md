@@ -11,7 +11,7 @@
 
 ### I am a web developer
 
-- 👨‍🏭 I’m currently pursuing **B-Tech from Lovely Professional University** <br>
+- 👨‍🏭 I’m currently pursuing **B-Tech** <br>
 - 🏫 I’m currently learning **Web Devlopment and DSA** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
 - 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
