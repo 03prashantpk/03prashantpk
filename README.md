@@ -92,7 +92,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <hr/>
 <br>
-<img width="100%" src="https://github.com/03prashantpk/03prashantpk/raw/master/skills.svg">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
