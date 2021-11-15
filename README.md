@@ -4,6 +4,11 @@
 नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/Hi.gif" width="30px"> <br>
 </h1>
 
+<center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7DE16&size=22&center=true&width=500&lines=Full-Stack+Web+Developer;Always+learning+new+things;Join+Me+on;Website+-+Enally.in)](https://git.io/typing-svg)
+
+ </center>
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
