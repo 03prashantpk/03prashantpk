@@ -11,12 +11,12 @@
  </center>
  
  ## TOP NEW PROJECTS
- My Recent Projects on PHP Backend: 
- <a href="https://diligentcreator.ml/">1. Diligent Creators</a>
- <a href="https://enally.in/files-manager/">2. Classroom Bucket</a>
- <a href="https://enally.in/files-manager/myclassbot">3. My Class Bot - ONLINE STUDENTS MUST WATCH</a>
- <a href="https://enally.in/">4. More Link 1</a>
- <a href="https://enally.in/files-manager/project-page">5. Link 2</a>
+ My Recent Projects with Backend: <br>
+ <a href="https://diligentcreator.ml/">1. Diligent Creators</a> Visit <a href='https://diligentcreator.ml/u/admin'>My Resume</a><br>
+ <a href="https://enally.in/files-manager/">2. Classroom Bucket</a><br>
+ <a href="https://enally.in/files-manager/myclassbot">3. My Class Bot - ONLINE STUDENTS MUST WATCH</a><br>
+ <a href="https://enally.in/">4. More Link 1</a><br>
+ <a href="https://enally.in/files-manager/project-page">5. Link 2</a><br>
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
@@ -52,7 +52,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <br>
 
-### Languages
+### Languages & Technologies
 
 <hr/>
 
@@ -64,10 +64,13 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
 <img align="left" alt="Mysql" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+<img align="left" alt="SCSS" width="40px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+<img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" />
+<img align="left" alt="Jquery" width="40px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" />
 
 <br><br>
 
-### Tools
+### Tools & Softwares
 
 <hr/>
 
@@ -76,10 +79,10 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitBash" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="Wordpress" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Wordpress_Blue_logo.png/1200px-Wordpress_Blue_logo.png" />
-<img align="left" alt="Orcle 10g" width="40px" src="https://yenra.com/oracle-10g-enterprise-manager/oracle-10g-enterprise-manager.gif" />
+<img align="left" alt="Orcle 10g" width="40px" src="https://i.pinimg.com/236x/e3/b7/9d/e3b79dd42a03cbb6f658ae3efc5e3d5c--oracle-g-bangs.jpg" />
 <img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" />
 <img align="left" alt="Pycharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
-
+<img align="left" alt="Ubuntu" width="40px" src="https://assets.ubuntu.com/v1/57a889f6-ubuntu-logo112.png" />
 <br><br><br>
 
 ### Learning Sources
@@ -111,7 +114,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 ![](https://activity-graph.herokuapp.com/graph?username=03prashantpk&theme=github)
 
 <p align="center">
-<a href="https://enally.in/cv/index.php" target="_blank">
+<a href="https://diligentcreator.ml/u/admin" target="_blank">
  
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/profile-cloud.png)
   
@@ -126,5 +129,5 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 </a>
 
-<!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk >
+<!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk ----->
 
