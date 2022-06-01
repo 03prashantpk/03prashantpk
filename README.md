@@ -28,12 +28,6 @@
 
 <hr/>
 
-<!--
-<div class="empty-text">
- 
- </div>
--->
-
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
 [![Instagram Badge](https://img.shields.io/badge/-@prashantpkumar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/prashantpkumar)
