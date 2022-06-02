@@ -1,7 +1,7 @@
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header.png)
 
 <h1 align="center">
-नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://i.gifer.com/3klR.gif" width="30px"> <br>
+नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coding_.png" width="50px"> <br>
 </h1>
 
 <center>
