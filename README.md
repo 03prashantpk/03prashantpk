@@ -69,6 +69,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <br><br>
 
+
 ### Tools & Softwares
 
 <hr/>
