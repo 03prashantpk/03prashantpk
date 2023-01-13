@@ -6,7 +6,7 @@
 
 <center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7DE16&size=22&center=true&width=500&lines=Full-Stack+Web+Developer;Always+learning+new+things;Join+Me+on;Website+-+Enally.in)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Please+Do+Not+Hesitate+To+Open+An+Issue+or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
 
  </center>
  
@@ -126,6 +126,10 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer2.png)
 
 </a>
+
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+And+Happy+Coding)](https://git.io/typing-svg)
+
 
 <!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk ----->
 
