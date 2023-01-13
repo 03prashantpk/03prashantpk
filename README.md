@@ -104,8 +104,6 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <hr/>
 <br>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=03prashantpk&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=03prashantpk&layout=compact&theme=blue-green" />
 
