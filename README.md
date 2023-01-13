@@ -1,14 +1,14 @@
 ![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header.png)
 
 <h1 align="center">
-नमस्ते (Namaste), I Am Prashant Kumar! <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coding_.png" width="50px"> <br>
+नमस्ते (Namaste), I Am Prashant Kumar!<br>
 </h1>
 
-<center>
+<p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Please+Do+Not+Hesitate+To+Open+An+Issue+or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
 
- </center>
+</p>
  
  ## TOP NEW PROJECTS
  My Recent Projects with Backend: <br>
@@ -129,12 +129,12 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 
 <br>
 
-<center>
+<p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thank+You+for+Visiting+And+Happy+Coding)](https://git.io/typing-svg)
 
  
- <center>
+</p>
 
 <!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk ----->
 
