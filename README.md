@@ -121,16 +121,6 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 </a>
 </p>
 
-<p style="color: red;" align="right" >Last Update on: 30 Sept 2021 </p>
-
-<a href="https://www.linkedin.com/in/03prashantpk/">
-
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer2.png)
-
-</a>
-
-<br>
-
 <center>
 <p align="center">
 
@@ -139,6 +129,14 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
  
 </p>
 </center>
+
+<p style="color: red;" align="right" >Last Update on: 30 Sept 2021 </p>
+
+<a href="https://www.linkedin.com/in/03prashantpk/">
+
+![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer2.png)
+
+</a>
 
 <!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk ----->
 
