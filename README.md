@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Always+Learning+New+Things;Please+Do+Not+Hesitate;To+Open+An+Issue;Or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Always+Learning+New+Things;Please+Do+Not+Hesitate+To+Open+An+Issue+Or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
  
 
 
@@ -134,7 +134,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 <center>
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&width=1080&lines=Thank+You+for+Visiting;And+Happy+Coding..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&width=1080&lines=Thank+You+for+Visiting+And+Happy+Coding..." alt="Typing SVG" /></a>
 
  
 </p>
