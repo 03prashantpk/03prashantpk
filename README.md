@@ -46,9 +46,9 @@
 
 <a href="https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50">
  
- Let's Tune Together!
+ Let's Tune Together! - Spotify
 
-<img width="26" src="https://media2.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif">
+<img width="26" src="https://cdn.dribbble.com/users/3691429/screenshots/15011694/spotify.gif">
 
  </a>
 
