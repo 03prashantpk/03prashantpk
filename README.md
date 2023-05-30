@@ -14,7 +14,7 @@
  
  ## TOP NEW PROJECTS
  My Recent Projects with Backend: <br>
- 1.<a href="https://diligentcreator.ml/"> Diligent Creators</a> Visit <a href='https://diligentcreator.ml/u/admin'>My Resume</a><br>
+ 1.<a href="https://diligentcreator.tech/"> Diligent Creators</a> Visit <a href='https://diligentcreator.tech/u/admin'>My Resume</a><br>
  2.<a href="https://enally.in/files-manager/"> Classroom Bucket</a><br>
  3. <a href="https://enally.in/files-manager/myclassbot"> My Class Bot - ONLINE STUDENTS MUST WATCH</a><br>
  4. All Projects lists <a href="https://enally.in/projects">Link 1</a><br>
