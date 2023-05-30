@@ -25,8 +25,8 @@
 
 ### I am a web developer
 
-- 👨‍🏭 Passionately ** pursuing B-Tech, eager for impactful internships.** <br>
-- 🏫 Mastering ** Full-Stack Development (MERN STACK), Digital Marketing, and SEO. ** <br>
+- 👨‍🏭 Passionately **Pursuing B-Tech, eager for impactful internships.** <br>
+- 🏫 Mastering **Full-Stack Development (MERN STACK), Digital Marketing, and SEO.** <br>
 - 🙌 **Collaborating on captivating web development projects** <br>
 - 🥅 2023 Goals: **Secure a job placement in a reputable organization and focus on personal growth and continuous learning to enhance my skills and expertise.** <br>
 
@@ -44,11 +44,15 @@
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue)
 
 
-<!--
-```
-https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
-```
--->
+<a href="https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50">
+ 
+ Let's Tune Together!
+
+<img width="26" src="https://media2.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif">
+
+ </a>
+
+
 
 <br>
 
