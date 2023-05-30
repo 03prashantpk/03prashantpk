@@ -17,7 +17,7 @@
  1.<a href="https://diligentcreator.ml/"> Diligent Creators</a> Visit <a href='https://diligentcreator.ml/u/admin'>My Resume</a><br>
  2.<a href="https://enally.in/files-manager/"> Classroom Bucket</a><br>
  3. <a href="https://enally.in/files-manager/myclassbot"> My Class Bot - ONLINE STUDENTS MUST WATCH</a><br>
- 4. More <a href="https://enally.in/">Link 1</a> & <a href="https://enally.in/files-manager/project-page">Link 2</a><br>
+ 4. All Projects lists <a href="https://enally.in/projects">Link 1</a><br>
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
@@ -25,11 +25,10 @@
 
 ### I am a web developer
 
-- 👨‍🏭 I’m currently pursuing **B-Tech** <br>
-- 🏫 I’m currently learning **Web Devlopment and DSA** <br>
-- 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
-- 🥅 2023 Goals: **Contribute in some open source Project as well as learning more and more things.** <br>
+- 👨‍🏭 Passionately ** pursuing B-Tech, eager for impactful internships.** <br>
+- 🏫 Mastering ** Full-Stack Development (MERN STACK), Digital Marketing, and SEO. ** <br>
+- 🙌 **Collaborating on captivating web development projects** <br>
+- 🥅 2023 Goals: **Secure a job placement in a reputable organization and focus on personal growth and continuous learning to enhance my skills and expertise.** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
@@ -130,7 +129,7 @@ https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50
 </p>
 </center>
 
-<p style="color: red;" align="right" >Last Update on: 13 Jan 2023 </p>
+<p style="color: red;" align="right" >Last Update on: 31 May 2023 </p>
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
