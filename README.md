@@ -47,10 +47,6 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny)
  
- Let's Tune Together! - Spotify
-
-<img width="26" src="https://cdn.dribbble.com/users/3691429/screenshots/15011694/spotify.gif">
-
  </a>
 
 
