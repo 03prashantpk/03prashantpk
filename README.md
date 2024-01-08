@@ -45,7 +45,7 @@
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue)
 
 
-<a href="https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny?si=8e812ed666f24c50">
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny)
  
  Let's Tune Together! - Spotify
 
