@@ -29,7 +29,7 @@
 - 👨‍🏭 Passionately **Pursuing B-Tech, eager for impactful internships.** <br>
 - 🏫 Mastering **Full-Stack Development (MERN STACK), Digital Marketing, and SEO.** <br>
 - 🙌 **Collaborating on captivating web development projects** <br>
-- 🥅 2023 Goals: **Secure a job placement in a reputable organization and focus on personal growth and continuous learning to enhance my skills and expertise.** <br>
+- 🥅 2024 Goals: **Secure a job placement in a reputable organization and focus on personal growth and continuous learning to enhance my skills and expertise.** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
@@ -120,7 +120,7 @@
 </p>
 </center>
 
-<p style="color: red;" align="right" >Last Update on: 20 Sept 2023 </p>
+<p style="color: red;" align="right" >Last Update on: 8 Jan 2024 </p>
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
