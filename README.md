@@ -12,13 +12,26 @@
 
 </p>
  
- ## TOP NEW PROJECTS
- My Recent Projects with Backend: <br>
- 0.<a href="https://unichatapp.vercel.app"> UniChat - App</a><br>
- 1.<a href="https://diligentcreator.tech/"> Diligent Creators</a> Visit <a href='https://diligentcreator.tech/u/admin'>My Resume</a><br>
- 2.<a href="https://enally.in/files-manager/"> Classroom Bucket</a><br>
- 3. <a href="https://enally.in/files-manager/myclassbot"> My Class Bot - ONLINE STUDENTS MUST WATCH</a><br>
- 4. All Projects lists <a href="https://enally.in/projects">Link 1</a><br>
+## TOP NEW PROJECTS
+
+**0. [UniChat - App](https://unichatapp.vercel.app)**
+- Description: University App - Chat, Date, Create Rooms, Food and more.
+
+**1. [Diligent Creators](https://diligentcreator.tech/)**
+- Description: Online Resumne/Portfolio Web Page creator (Without Coding).
+- [Visit My Resume](https://diligentcreator.tech/u/admin)
+
+**2. [Classroom Bucket](https://enally.in/files-manager/)**
+- Description: BTech All Study Materials in One Bucket.
+
+**3. [My Class Bot - ONLINE STUDENTS MUST WATCH](https://enally.in/files-manager/myclassbot)**
+- Description: Python Bot and for more visit the below link
+
+**4. [Website](https://enally.in/)**
+- Description: Enally.in
+
+
+
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
