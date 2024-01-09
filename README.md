@@ -49,14 +49,6 @@
 
 
 
-
-
-
- 
- </a>
-
-
-
 <br>
 
 ### Languages & Technologies
@@ -130,7 +122,7 @@
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer2.png)
+![](https://tmpfiles.org/dl/3792257/output-onlinegiftools.gif)
 
 </a>
 
