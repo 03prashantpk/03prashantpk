@@ -40,9 +40,9 @@
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
 
-| Social Media List | Image Placeholder | Spotify Code Image |
-| --- | --- | --- |
-| [![Instagram Badge](https://img.shields.io/badge/-@prashantpkumar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/prashantpkumar) [![Linkedin Badge](https://img.shields.io/badge/-03prashantpk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/03prashantpk/)](https://www.linkedin.com/in/03prashantpk/) [![Facebook Badge](https://img.shields.io/badge/-Prashant96120Pk-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Prashant96120Pk)](https://www.facebook.com/Prashant96120Pk) ![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue) | <img align="left" alt="Image Placeholder" width="100px" src="https://example.com/image_placeholder.png" /> | [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny)
+| Social Media List |  Spotify Code Image |
+| --- | --- |
+| [![Instagram Badge](https://img.shields.io/badge/-@prashantpkumar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prashantpkumar)](https://www.instagram.com/prashantpkumar) [![Linkedin Badge](https://img.shields.io/badge/-03prashantpk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/03prashantpk/)](https://www.linkedin.com/in/03prashantpk/) [![Facebook Badge](https://img.shields.io/badge/-Prashant96120Pk-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Prashant96120Pk)](https://www.facebook.com/Prashant96120Pk) ![](https://komarev.com/ghpvc/?username=03prashantpk&color=blue) | [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gms3hlihdvvu6bwlnvzpig7qny)
 
 
 
