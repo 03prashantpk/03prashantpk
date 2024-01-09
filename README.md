@@ -122,7 +122,7 @@
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
-![](https://tmpfiles.org/dl/3792257/output-onlinegiftools.gif)
+![](https://assets-global.website-files.com/59e16042ec229e00016d3a66/6048524064e040800db65285_Blog-hero_final%20(1).gif)
 
 </a>
 
