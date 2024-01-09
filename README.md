@@ -122,7 +122,7 @@
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
+![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer4.png)
 
 </a>
 
