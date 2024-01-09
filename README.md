@@ -118,7 +118,7 @@
 </p>
 </center>
 
-<p style="color: #F37E21;" align="right" >Last Update on: 8 Jan 2024 </p>
+<p style="color: golden;" align="right" >Last Update on: 8 Jan 2024 </p>
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
