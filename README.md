@@ -122,23 +122,9 @@
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
-![](https://assets-global.website-files.com/59e16042ec229e00016d3a66/6048524064e040800db65285_Blog-hero_final%20(1).gif)
+![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png)
 
 </a>
-
-
-<form action="/submit-feedback" method="post">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required><br>
-
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required><br>
-
-  <label for="feedback">Feedback:</label><br>
-  <textarea id="feedback" name="feedback" rows="4" cols="50" required></textarea><br>
-
-  <input type="submit" value="Submit">
-</form>
 
 <!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk ----->
 
