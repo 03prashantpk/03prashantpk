@@ -126,5 +126,19 @@
 
 </a>
 
+
+<form action="/submit-feedback" method="post">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required><br>
+
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required><br>
+
+  <label for="feedback">Feedback:</label><br>
+  <textarea id="feedback" name="feedback" rows="4" cols="50" required></textarea><br>
+
+  <input type="submit" value="Submit">
+</form>
+
 <!--Created By Prashant Kumar - linkedin: https://linkedin.com/in/03prashantpk Github: https://github.com/03prashantpk ----->
 
