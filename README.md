@@ -112,13 +112,13 @@
 <center>
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&width=1080&lines=Thank+You+for+Visiting+And+Happy+Coding..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=F37E21&width=1080&lines=Thank+You+for+Visiting+And+Happy+Coding..." alt="Typing SVG" /></a>
 
  
 </p>
 </center>
 
-<p style="color: red;" align="right" >Last Update on: 8 Jan 2024 </p>
+<p style="color: #F37E21;" align="right" >Last Update on: 8 Jan 2024 </p>
 
 <a href="https://www.linkedin.com/in/03prashantpk/">
 
