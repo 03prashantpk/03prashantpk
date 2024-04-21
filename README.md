@@ -10,7 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Always+Learning+New+Things;Please+Do+Not+Hesitate+To+Open+An+Issue+Or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
  
 
-
 </p>
  
 ## TOP NEW PROJECTS
@@ -30,6 +29,9 @@
 <img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
+
+### Waka Time
+[![wakatime](https://wakatime.com/badge/user/018ee2e3-05bb-4c1c-83b7-74934ab8c468/project/018ef208-dca4-40d6-8902-433cda4d47d0.svg)](https://wakatime.com/badge/user/018ee2e3-05bb-4c1c-83b7-74934ab8c468/project/018ef208-dca4-40d6-8902-433cda4d47d0)
 
 ### I am a web developer
 
