@@ -17,7 +17,7 @@
 
 **0. [UniChat - App](https://unichatapp.vercel.app)** - University App - Chat, Date, Create Rooms, Food and more.
 
-**1. [Diligent Creators](https://diligentcreator.tech/)** - Online Resumne/Portfolio Web Page creator (Without Coding). [Visit My Resume](https://diligentcreator.tech/u/admin)
+**1. [Diligent Creators](https://diligentcreator.tech/)** - Online Resumne/Portfolio Web Page creator (Without Coding). [Visit My Resume](https://diligentcreator.tech/u/admin) (Currently Unavailable)
 
 **2. [Classroom Bucket](https://enally.in/files-manager/)** - Description: BTech All Study Materials in One Bucket. (Currently Unavailable)
 
