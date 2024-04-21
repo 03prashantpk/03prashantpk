@@ -33,6 +33,7 @@
 ### Waka Time
 [![wakatime](https://wakatime.com/badge/user/018f009b-6304-446b-b3c0-f648fb1a8250/project/018f009d-ff36-4276-a19f-b22c167e54c3.svg)](https://wakatime.com/badge/user/018f009b-6304-446b-b3c0-f648fb1a8250/project/018f009d-ff36-4276-a19f-b22c167e54c3)
 
+
 ### I am a web developer
 
 - 👨‍🏭 Passionately **Pursuing B-Tech, eager for impactful internships.** <br>
@@ -92,6 +93,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <img align="left" alt="Google" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" /> | <img align="left" alt="W3school" width="50px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" /> | <img align="left" alt="gfg" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" /> | <img align="left" alt="Udemy" width="55px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" /> | <img align="left" alt="Codepen" width="55px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" /> | <img align="left" alt="YouTube" width="60px" src="https://static.vecteezy.com/system/resources/thumbnails/022/721/714/small_2x/youtube-logo-for-popular-online-media-content-creation-website-and-application-free-png.png" /> | <img align="left" alt="coursera" width="80px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" /> | <img align="left" alt="coursera" width="40px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" /> | <img align="left" alt="coursera" width="40px" src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" /> | <img align="left" alt="coursera" width="40px" src="https://automationswitch.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/08/23010947/Mid-journey-logo.png" /> |
 
+
+<figure><embed src="https://wakatime.com/share/@018f009b-6304-446b-b3c0-f648fb1a8250/0013a3de-e021-4b80-a9c8-b62ca575e54a.svg"></embed></figure>
 
 <br><br>
 
