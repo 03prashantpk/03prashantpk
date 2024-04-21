@@ -20,9 +20,7 @@
 
 **2. [Classroom Bucket](https://enally.in/files-manager/)** - Description: BTech All Study Materials in One Bucket. (Currently Unavailable)
 
-**3. [My Class Bot - ONLINE STUDENTS MUST WATCH](https://enally.in/files-manager/myclassbot)** - Python Bot and for more visit the below link (Currently Unavailable)
-
-**4. [Website](https://enally.in/)** - Enally.in
+**3. [Website](https://enally.in/)** - Enally.in
 
 
 <br>
