@@ -24,7 +24,7 @@
 
 
 <br>
-<img align="right" alt="coding" width="250" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+<img align="right" alt="coding" width="250" src="https://enally.in/cdn/globalImages/CLASSROOM%20BUCKETAn.gif">
 
 ![](https://komarev.com/ghpvc/?username=03prashantpk&color=ff0000&label=Welcome,+Visitor:) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
 
@@ -109,9 +109,6 @@
 | --- | --- |
 | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=03prashantpk&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats) | ![](https://activity-graph.herokuapp.com/graph?username=03prashantpk&theme=github) | <img src="https://i.postimg.cc/NGTx0sk1/Screenshot-2024-01-09-at-20-29-40-Entrepreneur-s-Abode-of-Alliance.png" width="80px" alt="enally" />
 
-
-
-<a href="https://app.daily.dev/03prashantpk"><img src="https://api.daily.dev/devcards/v2/RZQB26VvejhuWjeASYOmG.png?type=wide&r=6q0" width="652" alt="Prashant Kumar's Dev Card"/></a>
 
 
 <p align="center">
