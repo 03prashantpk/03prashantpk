@@ -28,6 +28,8 @@
 
 **∞. [Projects](https://enally.in/projects-list)** - Checkout - More Projects
 
+### REACH OUT FOR COLLEGE, UNIVERSITY, PLACEMENT, AND SMALL BUSINESS PROJECTS!
+
 
 <br>
 <img align="right" alt="coding" width="250" src="https://enally.in/cdn/globalImages/CLASSROOM%20BUCKETAn.gif">
