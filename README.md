@@ -1,4 +1,4 @@
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header.png)
+![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header1.jpeg)
 
 <h1 align="center">
 नमस्ते (Namaste), I Am Prashant Kumar!<br>
@@ -14,19 +14,19 @@
  
 ## TOP NEW PROJECTS
 
-**0. [UniChat - App](https://unichatapp.vercel.app)** - University App - Chat, Date, Create Rooms, Food and more.
+**0. [UniChat - App](https://unichatapp.vercel.app)** - The ultimate university app for connecting with your peers. Chat, date, create rooms, explore food options, and more.
 
-**1. [Diligent Creators](https://diligentcreator.tech/)** - Online Resumne/Portfolio Web Page creator (Without Coding). [Visit My Resume](https://diligentcreator.tech/u/admin) (Currently Unavailable)
+**1. [Diligent Creators](https://diligentcreator.tech/)** - Build your online resume or portfolio without coding. Simple, elegant, and effective. [Visit My Resume](https://diligentcreator.tech/u/admin) (Currently Unavailable)
 
-**2. [Classroom Bucket](https://enally.in/files-manager/)** - Description: BTech All Study Materials in One Bucket. (Currently Unavailable)
+**2. [Classroom Bucket](https://enally.in/files-manager/)** - Your all-in-one repository for BTech study materials. Everything you need, in one place. (Currently Unavailable).
 
-**3. [Website](https://enally.in/)** - Enally.in
+**3. [Website](https://enally.in/)** - Empowering young minds through collaboration and innovation. At Enally, we merge skills and passions to help you turn your ideas into reality. Join us in shaping the future.
 
-**4. [Link In Blink](https://linkinblink.enally.in/)** - Link In Blink - Platform for spontaneous conversations & video streaming.
+**4. [Link In Blink](https://linkinblink.enally.in/)** - Dive into spontaneous conversations and video streaming with Link In Blink.
 
 **5. [Unichat App](https://unichatapp.enally.in/)** - Unichat App - Connect with on-campus dating, chat, room creation, confessions, and Campus Hush-Fush updates!
 
-**∞. [Projects](https://enally.in/projects-list)** - Checkout - More Projects
+**∞. [Projects](https://enally.in/projects-list)** - Explore more of my projects here.
 
 ### REACH OUT FOR COLLEGE, UNIVERSITY, PLACEMENT, AND SMALL BUSINESS PROJECTS!
 
