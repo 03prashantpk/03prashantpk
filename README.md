@@ -14,6 +14,8 @@
  
 ## TOP NEW PROJECTS
 
+<a href="https://app.daily.dev/03prashantpk"><img src="https://api.daily.dev/devcards/v2/RZQB26VvejhuWjeASYOmG.png?type=default&r=35p" width="200" align="right" alt="Prashant Kumar's Dev Card"/></a>
+
 **0. [UniChat - App](https://unichatapp.vercel.app)** - The ultimate university app for connecting with your peers. Chat, date, create rooms, explore food options, and more.
 
 **1. [Diligent Creators](https://diligentcreator.tech/)** - Build your online resume or portfolio without coding. Simple, elegant, and effective. [Visit My Resume](https://diligentcreator.tech/u/admin) (Currently Unavailable)
@@ -29,7 +31,7 @@
 **∞. [Projects](https://enally.in/projects-list)** - Explore more of my projects here.
 
 
-<a href="https://app.daily.dev/03prashantpk"><img src="https://api.daily.dev/devcards/v2/RZQB26VvejhuWjeASYOmG.png?type=default&r=35p" width="200" align="right" alt="Prashant Kumar's Dev Card"/></a>
+
 
 <br>
 
