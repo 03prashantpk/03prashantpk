@@ -28,6 +28,9 @@
 
 **∞. [Projects](https://enally.in/projects-list)** - Explore more of my projects here.
 
+<a href="https://app.daily.dev/03prashantpk"><img src="https://api.daily.dev/devcards/v2/RZQB26VvejhuWjeASYOmG.png?type=default&r=35p" width="356" alt="Prashant Kumar's Dev Card"/></a>
+
+
 ### REACH OUT FOR COLLEGE, UNIVERSITY, PLACEMENT, AND SMALL BUSINESS PROJECTS!
 
 
