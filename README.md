@@ -47,6 +47,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/018f009b-6304-446b-b3c0-f648fb1a8250.svg)](https://wakatime.com/@018f009b-6304-446b-b3c0-f648fb1a8250)
 
+[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26670%26project%3D%26in=0)](https://codetime.dev)
+
+
 
 ### I am a web developer
 
