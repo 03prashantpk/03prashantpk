@@ -1,4 +1,4 @@
-![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header2.jpe)
+![](https://github.com/03prashantpk/03prashantpk/blob/main/assets/header2.jpg)
 
 <h1 align="center">
 नमस्ते (Namaste), I Am Prashant Kumar!<br>
