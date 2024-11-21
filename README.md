@@ -49,7 +49,7 @@
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26670%26project%3D%26in=0)](https://codetime.dev)
 
-[![Wakatime + Wakapi](https://github-personal-readme.vercel.app/combined-coding-time)](https://github-personal-readme.vercel.app/combined-coding-time)
+<img src="https://github-personal-readme.vercel.app/combined-coding-time" alt="NEW" />
 
 
 ### I am a web developer
